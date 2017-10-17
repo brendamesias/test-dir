@@ -2,5 +2,8 @@ div{
   height: 100px;
 }
 .yellow{
-  background-color
+  background-color: rgb(221, 245, 6);
+}
+.black{
+  background-color:#000;
 }
